@@ -11,13 +11,15 @@ interface Props {
   activeCategory: string;
   sectionStudied: number;
   sectionPct: number;
+  startIndex?: number;
+  totalFiltered?: number;
 }
 
-export default function BrowseView({ words, progress, onUpdate, speed, activeCategory, sectionStudied, sectionPct }: Props) {
+export default function BrowseView({ words, progress, onUpdate, speed, activeCategory, sectionStudied, sectionPct, startIndex, totalFiltered }: Props) {
   return (
     <>
       <div className="section-head">
-        <div className="sec-tag">§B · {words.length} words</div>
+        <div className="sec-tag">§B · {totalFiltered ?? words.length} words</div>
         <h2>
           {activeCategory === 'all'
             ? 'Browse & Review'
@@ -26,7 +28,7 @@ export default function BrowseView({ words, progress, onUpdate, speed, activeCat
         <p>Expand a card for the meaning, example sentence and pronunciation. Mark each word as studied when you know it.</p>
         <div className="section-progress">
           <div className="sp-track"><div className="sp-fill" style={{ width: `${sectionPct}%` }} /></div>
-          <div className="sp-text">{sectionStudied} / {words.length} studied</div>
+          <div className="sp-text">{sectionStudied} / {totalFiltered ?? words.length} studied</div>
         </div>
       </div>
 
@@ -41,7 +43,7 @@ export default function BrowseView({ words, progress, onUpdate, speed, activeCat
             <QACard
               key={word.id}
               word={word}
-              index={i}
+              index={(startIndex ?? 0) + i}
               progress={progress}
               onUpdate={onUpdate}
               speed={speed}

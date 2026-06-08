@@ -18,6 +18,7 @@ export default function Home() {
   const [quizMode, setQuizMode] = useState(false);
   const [slowMode, setSlowMode] = useState(false);
   const [search, setSearch] = useState('');
+  const [currentPage, setCurrentPage] = useState(1);
 
   const speed = slowMode ? 0.75 : 1.0;
   const isFullView = activeView === 'quiz' || activeView === 'stats';
@@ -28,6 +29,10 @@ export default function Home() {
     setProgress(p);
     saveProgress(p);
   }, []);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [activeCategory, search]);
 
   const updateProgress = useCallback((p: AppProgress) => {
     setProgress(p);
@@ -45,6 +50,13 @@ export default function Home() {
     }),
     [activeCategory, search]
   );
+
+  const wordsPerPage = 100;
+  const totalPages = Math.ceil(filteredWords.length / wordsPerPage);
+  const paginatedWords = useMemo(() => {
+    const start = (currentPage - 1) * wordsPerPage;
+    return filteredWords.slice(start, start + wordsPerPage);
+  }, [filteredWords, currentPage]);
 
   if (!progress) return (
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100vh', fontFamily: "'JetBrains Mono',monospace", color: 'var(--ink-soft)', fontSize: '12px', letterSpacing: '.2em' }}>
@@ -135,16 +147,41 @@ export default function Home() {
       {/* Active view */}
       <main>
         {activeView === 'flashcards' && (
-          <FlashcardView words={filteredWords} progress={progress} onUpdate={updateProgress} quizMode={quizMode} speed={speed} activeCategory={activeCategory} sectionStudied={sectionStudied} sectionPct={sectionPct} />
+          <FlashcardView words={paginatedWords} progress={progress} onUpdate={updateProgress} quizMode={quizMode} speed={speed} activeCategory={activeCategory} sectionStudied={sectionStudied} sectionPct={sectionPct} startIndex={(currentPage - 1) * wordsPerPage} totalFiltered={filteredWords.length} />
         )}
         {activeView === 'browse' && (
-          <BrowseView words={filteredWords} progress={progress} onUpdate={updateProgress} speed={speed} activeCategory={activeCategory} sectionStudied={sectionStudied} sectionPct={sectionPct} />
+          <BrowseView words={paginatedWords} progress={progress} onUpdate={updateProgress} speed={speed} activeCategory={activeCategory} sectionStudied={sectionStudied} sectionPct={sectionPct} startIndex={(currentPage - 1) * wordsPerPage} totalFiltered={filteredWords.length} />
         )}
         {activeView === 'quiz' && (
           <QuizView words={filteredWords.length >= 4 ? filteredWords : vocabulary} allWords={vocabulary} progress={progress} onUpdate={updateProgress} onBack={() => setActiveView('flashcards')} speed={speed} />
         )}
         {activeView === 'stats' && (
           <StatsView words={vocabulary} progress={progress} onBack={() => setActiveView('flashcards')} speed={speed} />
+        )}
+
+        {/* Pagination Controls */}
+        {!isFullView && totalPages > 1 && (
+          <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '16px', marginTop: '36px', paddingTop: '24px', borderTop: '1px dashed var(--line)' }}>
+            <button 
+              className="btn-secondary" 
+              disabled={currentPage === 1} 
+              onClick={() => { setCurrentPage(p => Math.max(1, p - 1)); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+              style={{ opacity: currentPage === 1 ? 0.4 : 1, cursor: currentPage === 1 ? 'default' : 'pointer' }}
+            >
+              ← Prev
+            </button>
+            <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', color: 'var(--ink-soft)' }}>
+              Page {currentPage} of {totalPages}
+            </span>
+            <button 
+              className="btn-secondary" 
+              disabled={currentPage === totalPages} 
+              onClick={() => { setCurrentPage(p => Math.min(totalPages, p + 1)); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+              style={{ opacity: currentPage === totalPages ? 0.4 : 1, cursor: currentPage === totalPages ? 'default' : 'pointer' }}
+            >
+              Next →
+            </button>
+          </div>
         )}
       </main>
 
