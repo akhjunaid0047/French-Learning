@@ -24,12 +24,14 @@ export default function QuizView({ words, allWords, progress, onUpdate, onBack, 
   const [finished, setFinished] = useState(false);
   const [wrongAnswers, setWrongAnswers] = useState<{ word: Word; chosen: string }[]>([]);
   const [timer, setTimer] = useState(15);
-  const timerActiveRef = useRef(true);
+  const timerActiveRef = useRef(false);
+  const [questionCount, setQuestionCount] = useState(10);
+  const [started, setStarted] = useState(false);
 
   const startQuiz = useCallback(() => {
     const pool = allWords.length >= 4 ? allWords : words;
     const qs = shuffle(words)
-      .slice(0, Math.min(10, words.length))
+      .slice(0, Math.min(questionCount, words.length))
       .map((w) => ({ word: w, choices: buildChoices(w, pool) }));
     setQuestions(qs);
     setQi(0);
@@ -39,9 +41,8 @@ export default function QuizView({ words, allWords, progress, onUpdate, onBack, 
     setWrongAnswers([]);
     setTimer(15);
     timerActiveRef.current = true;
-  }, [words, allWords]);
-
-  useEffect(() => { startQuiz(); }, [startQuiz]);
+    setStarted(true);
+  }, [words, allWords, questionCount]);
 
   // Timer — uses ref to avoid stale-closure issues with handleAnswer
   useEffect(() => {
@@ -92,6 +93,35 @@ export default function QuizView({ words, allWords, progress, onUpdate, onBack, 
     return () => clearTimeout(id);
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selected]);
+
+  if (!started) {
+    return (
+      <div className="quiz-view" style={{ animation: 'fade .4s ease', textAlign: 'center', paddingTop: '40px' }}>
+        <h2 style={{ fontFamily: "'Fraunces',serif", fontSize: '2rem', marginBottom: '20px' }}>Ready for a Quiz?</h2>
+        <div style={{ marginBottom: '30px' }}>
+          <label style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: '12px', color: 'var(--ink-soft)' }}>
+            Number of questions: 
+            <select 
+              className="quiz-select"
+              value={questionCount} 
+              onChange={e => setQuestionCount(Number(e.target.value))}
+              style={{ marginLeft: '10px' }}
+            >
+              <option value={5}>5 Questions</option>
+              <option value={10}>10 Questions</option>
+              <option value={20}>20 Questions</option>
+              <option value={50}>50 Questions</option>
+              <option value={words.length}>All ({words.length})</option>
+            </select>
+          </label>
+        </div>
+        <div className="quiz-actions" style={{ justifyContent: 'center' }}>
+          <button className="btn-primary" onClick={() => startQuiz()}>Play Now</button>
+          <button className="btn-secondary" onClick={onBack}>Cancel</button>
+        </div>
+      </div>
+    );
+  }
 
   if (questions.length === 0) return (
     <div style={{ textAlign: 'center', padding: '60px 20px' }}>
