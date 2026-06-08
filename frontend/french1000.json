@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "french": "être",
+    "english": "to be",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 2,
+    "french": "avoir",
+    "english": "to have",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 3,
+    "french": "faire",
+    "english": "to do",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 4,
+    "french": "aller",
+    "english": "to go",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 5,
+    "french": "dire",
+    "english": "to say",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 6,
+    "french": "pouvoir",
+    "english": "to be able to",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 7,
+    "french": "vouloir",
+    "english": "to want",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 8,
+    "french": "venir",
+    "english": "to come",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 9,
+    "french": "voir",
+    "english": "to see",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 10,
+    "french": "savoir",
+    "english": "to know",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 11,
+    "french": "devoir",
+    "english": "must",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 12,
+    "french": "prendre",
+    "english": "to take",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 13,
+    "french": "trouver",
+    "english": "to find",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 14,
+    "french": "donner",
+    "english": "to give",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 15,
+    "french": "parler",
+    "english": "to speak",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 16,
+    "french": "aimer",
+    "english": "to love",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 17,
+    "french": "passer",
+    "english": "to spend",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 18,
+    "french": "mettre",
+    "english": "to put",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 19,
+    "french": "sembler",
+    "english": "to seem",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 20,
+    "french": "laisser",
+    "english": "to leave",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 21,
+    "french": "rester",
+    "english": "to stay",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 22,
+    "french": "penser",
+    "english": "to think",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 23,
+    "french": "entendre",
+    "english": "to hear",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 24,
+    "french": "demander",
+    "english": "to ask",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 25,
+    "french": "comprendre",
+    "english": "to understand",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 26,
+    "french": "croire",
+    "english": "to believe",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 27,
+    "french": "connaître",
+    "english": "to know",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 28,
+    "french": "commencer",
+    "english": "to begin",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 29,
+    "french": "compter",
+    "english": "to count",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 30,
+    "french": "attendre",
+    "english": "to wait",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 31,
+    "french": "finir",
+    "english": "to finish",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 32,
+    "french": "vivre",
+    "english": "to live",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 33,
+    "french": "ouvrir",
+    "english": "to open",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 34,
+    "french": "porter",
+    "english": "to carry",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 35,
+    "french": "arriver",
+    "english": "to arrive",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 36,
+    "french": "sortir",
+    "english": "to go out",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 37,
+    "french": "partir",
+    "english": "to leave",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 38,
+    "french": "suivre",
+    "english": "to follow",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 39,
+    "french": "écrire",
+    "english": "to write",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 40,
+    "french": "lire",
+    "english": "to read",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 41,
+    "french": "jouer",
+    "english": "to play",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 42,
+    "french": "travailler",
+    "english": "to work",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 43,
+    "french": "manger",
+    "english": "to eat",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 44,
+    "french": "boire",
+    "english": "to drink",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 45,
+    "french": "acheter",
+    "english": "to buy",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 46,
+    "french": "vendre",
+    "english": "to sell",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 47,
+    "french": "payer",
+    "english": "to pay",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 48,
+    "french": "aider",
+    "english": "to help",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 49,
+    "french": "montrer",
+    "english": "to show",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 50,
+    "french": "utiliser",
+    "english": "to use",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 51,
+    "french": "bonjour",
+    "english": "hello",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 52,
+    "french": "salut",
+    "english": "hi",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 53,
+    "french": "au revoir",
+    "english": "goodbye",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 54,
+    "french": "merci",
+    "english": "thank you",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 55,
+    "french": "s’il vous plaît",
+    "english": "please",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 56,
+    "french": "oui",
+    "english": "yes",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 57,
+    "french": "non",
+    "english": "no",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 58,
+    "french": "peut-être",
+    "english": "maybe",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 59,
+    "french": "d’accord",
+    "english": "okay",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 60,
+    "french": "bien sûr",
+    "english": "of course",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 61,
+    "french": "je",
+    "english": "I",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 62,
+    "french": "tu",
+    "english": "you",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 63,
+    "french": "il",
+    "english": "he",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 64,
+    "french": "elle",
+    "english": "she",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 65,
+    "french": "nous",
+    "english": "we",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 66,
+    "french": "vous",
+    "english": "you plural",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 67,
+    "french": "ils",
+    "english": "they",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 68,
+    "french": "elles",
+    "english": "they feminine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 69,
+    "french": "me",
+    "english": "me",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 70,
+    "french": "te",
+    "english": "you object",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 71,
+    "french": "le",
+    "english": "the masculine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 72,
+    "french": "la",
+    "english": "the feminine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 73,
+    "french": "les",
+    "english": "the plural",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 74,
+    "french": "un",
+    "english": "a masculine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 75,
+    "french": "une",
+    "english": "a feminine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 76,
+    "french": "des",
+    "english": "some",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 77,
+    "french": "ce",
+    "english": "this",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 78,
+    "french": "cette",
+    "english": "this feminine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 79,
+    "french": "ces",
+    "english": "these",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 80,
+    "french": "mon",
+    "english": "my masculine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 81,
+    "french": "ma",
+    "english": "my feminine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 82,
+    "french": "mes",
+    "english": "my plural",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 83,
+    "french": "ton",
+    "english": "your masculine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 84,
+    "french": "ta",
+    "english": "your feminine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 85,
+    "french": "tes",
+    "english": "your plural",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 86,
+    "french": "son",
+    "english": "his her masculine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 87,
+    "french": "sa",
+    "english": "his her feminine",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 88,
+    "french": "ses",
+    "english": "his her plural",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 89,
+    "french": "notre",
+    "english": "our",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 90,
+    "french": "votre",
+    "english": "your formal",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 91,
+    "french": "leur",
+    "english": "their",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 92,
+    "french": "qui",
+    "english": "who",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 93,
+    "french": "que",
+    "english": "that",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 94,
+    "french": "quoi",
+    "english": "what",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 95,
+    "french": "où",
+    "english": "where",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 96,
+    "french": "quand",
+    "english": "when",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 97,
+    "french": "comment",
+    "english": "how",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 98,
+    "french": "pourquoi",
+    "english": "why",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 99,
+    "french": "parce que",
+    "english": "because",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 100,
+    "french": "mais",
+    "english": "but",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 101,
+    "french": "et",
+    "english": "and",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 102,
+    "french": "ou",
+    "english": "or",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 103,
+    "french": "si",
+    "english": "if",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 104,
+    "french": "donc",
+    "english": "therefore",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 105,
+    "french": "avec",
+    "english": "with",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 106,
+    "french": "sans",
+    "english": "without",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 107,
+    "french": "pour",
+    "english": "for",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 108,
+    "french": "contre",
+    "english": "against",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 109,
+    "french": "entre",
+    "english": "between",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 110,
+    "french": "chez",
+    "english": "at the home of",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 111,
+    "french": "sur",
+    "english": "on",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 112,
+    "french": "sous",
+    "english": "under",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 113,
+    "french": "dans",
+    "english": "in",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 114,
+    "french": "devant",
+    "english": "in front of",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 115,
+    "french": "derrière",
+    "english": "behind",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 116,
+    "french": "avant",
+    "english": "before",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 117,
+    "french": "après",
+    "english": "after",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 118,
+    "french": "ici",
+    "english": "here",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 119,
+    "french": "là",
+    "english": "there",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 120,
+    "french": "toujours",
+    "english": "always",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 121,
+    "french": "souvent",
+    "english": "often",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 122,
+    "french": "parfois",
+    "english": "sometimes",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 123,
+    "french": "jamais",
+    "english": "never",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 124,
+    "french": "déjà",
+    "english": "already",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 125,
+    "french": "encore",
+    "english": "still",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 126,
+    "french": "très",
+    "english": "very",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 127,
+    "french": "trop",
+    "english": "too much",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 128,
+    "french": "peu",
+    "english": "little",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 129,
+    "french": "plus",
+    "english": "more",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 130,
+    "french": "moins",
+    "english": "less",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 131,
+    "french": "beaucoup",
+    "english": "a lot",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 132,
+    "french": "bien",
+    "english": "well",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 133,
+    "french": "mal",
+    "english": "badly",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 134,
+    "french": "vite",
+    "english": "quickly",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 135,
+    "french": "lentement",
+    "english": "slowly",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 136,
+    "french": "maintenant",
+    "english": "now",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 137,
+    "french": "bientôt",
+    "english": "soon",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 138,
+    "french": "aujourd’hui",
+    "english": "today",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 139,
+    "french": "demain",
+    "english": "tomorrow",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 140,
+    "french": "hier",
+    "english": "yesterday",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 141,
+    "french": "matin",
+    "english": "morning",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 142,
+    "french": "soir",
+    "english": "evening",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 143,
+    "french": "nuit",
+    "english": "night",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 144,
+    "french": "jour",
+    "english": "day",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 145,
+    "french": "semaine",
+    "english": "week",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 146,
+    "french": "mois",
+    "english": "month",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 147,
+    "french": "année",
+    "english": "year",
+    "level": "A1",
+    "category": "core"
+  },
+  {
+    "id": 148,
+    "french": "zéro",
+    "english": "zero",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 149,
+    "french": "un (nombre)",
+    "english": "one",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 150,
+    "french": "deux",
+    "english": "two",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 151,
+    "french": "trois",
+    "english": "three",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 152,
+    "french": "quatre",
+    "english": "four",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 153,
+    "french": "cinq",
+    "english": "five",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 154,
+    "french": "six",
+    "english": "six",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 155,
+    "french": "sept",
+    "english": "seven",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 156,
+    "french": "huit",
+    "english": "eight",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 157,
+    "french": "neuf",
+    "english": "nine",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 158,
+    "french": "dix",
+    "english": "ten",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 159,
+    "french": "onze",
+    "english": "eleven",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 160,
+    "french": "douze",
+    "english": "twelve",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 161,
+    "french": "treize",
+    "english": "thirteen",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 162,
+    "french": "quatorze",
+    "english": "fourteen",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 163,
+    "french": "quinze",
+    "english": "fifteen",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 164,
+    "french": "seize",
+    "english": "sixteen",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 165,
+    "french": "dix-sept",
+    "english": "seventeen",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 166,
+    "french": "dix-huit",
+    "english": "eighteen",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 167,
+    "french": "dix-neuf",
+    "english": "nineteen",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 168,
+    "french": "vingt",
+    "english": "twenty",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 169,
+    "french": "vingt et un",
+    "english": "twenty one",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 170,
+    "french": "vingt-deux",
+    "english": "twenty two",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 171,
+    "french": "vingt-trois",
+    "english": "twenty three",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 172,
+    "french": "vingt-quatre",
+    "english": "twenty four",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 173,
+    "french": "vingt-cinq",
+    "english": "twenty five",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 174,
+    "french": "vingt-six",
+    "english": "twenty six",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 175,
+    "french": "vingt-sept",
+    "english": "twenty seven",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 176,
+    "french": "vingt-huit",
+    "english": "twenty eight",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 177,
+    "french": "vingt-neuf",
+    "english": "twenty nine",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 178,
+    "french": "trente",
+    "english": "thirty",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 179,
+    "french": "quarante",
+    "english": "forty",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 180,
+    "french": "cinquante",
+    "english": "fifty",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 181,
+    "french": "soixante",
+    "english": "sixty",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 182,
+    "french": "soixante-dix",
+    "english": "seventy",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 183,
+    "french": "quatre-vingts",
+    "english": "eighty",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 184,
+    "french": "quatre-vingt-dix",
+    "english": "ninety",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 185,
+    "french": "cent",
+    "english": "hundred",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 186,
+    "french": "mille",
+    "english": "thousand",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 187,
+    "french": "premier",
+    "english": "first",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 188,
+    "french": "deuxième",
+    "english": "second",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 189,
+    "french": "troisième",
+    "english": "third",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 190,
+    "french": "quatrième",
+    "english": "fourth",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 191,
+    "french": "cinquième",
+    "english": "fifth",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 192,
+    "french": "dernier",
+    "english": "last",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 193,
+    "french": "prochain",
+    "english": "next",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 194,
+    "french": "lundi",
+    "english": "Monday",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 195,
+    "french": "mardi",
+    "english": "Tuesday",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 196,
+    "french": "mercredi",
+    "english": "Wednesday",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 197,
+    "french": "jeudi",
+    "english": "Thursday",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 198,
+    "french": "vendredi",
+    "english": "Friday",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 199,
+    "french": "samedi",
+    "english": "Saturday",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 200,
+    "french": "dimanche",
+    "english": "Sunday",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 201,
+    "french": "janvier",
+    "english": "January",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 202,
+    "french": "février",
+    "english": "February",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 203,
+    "french": "mars",
+    "english": "March",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 204,
+    "french": "avril",
+    "english": "April",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 205,
+    "french": "mai",
+    "english": "May",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 206,
+    "french": "juin",
+    "english": "June",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 207,
+    "french": "juillet",
+    "english": "July",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 208,
+    "french": "août",
+    "english": "August",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 209,
+    "french": "septembre",
+    "english": "September",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 210,
+    "french": "octobre",
+    "english": "October",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 211,
+    "french": "novembre",
+    "english": "November",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 212,
+    "french": "décembre",
+    "english": "December",
+    "level": "A1",
+    "category": "numbers"
+  },
+  {
+    "id": 213,
+    "french": "personne",
+    "english": "person",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 214,
+    "french": "gens",
+    "english": "people",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 215,
+    "french": "homme",
+    "english": "man",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 216,
+    "french": "femme",
+    "english": "woman",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 217,
+    "french": "garçon",
+    "english": "boy",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 218,
+    "french": "fille",
+    "english": "girl",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 219,
+    "french": "bébé",
+    "english": "baby",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 220,
+    "french": "ami",
+    "english": "friend male",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 221,
+    "french": "amie",
+    "english": "friend female",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 222,
+    "french": "voisin",
+    "english": "neighbor male",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 223,
+    "french": "voisine",
+    "english": "neighbor female",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 224,
+    "french": "collègue",
+    "english": "coworker",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 225,
+    "french": "client",
+    "english": "customer male",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 226,
+    "french": "cliente",
+    "english": "customer female",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 227,
+    "french": "invité",
+    "english": "guest male",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 228,
+    "french": "invitée",
+    "english": "guest female",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 229,
+    "french": "chef",
+    "english": "boss",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 230,
+    "french": "professeur",
+    "english": "teacher",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 231,
+    "french": "étudiant",
+    "english": "student male",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 232,
+    "french": "étudiante",
+    "english": "student female",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 233,
+    "french": "élève",
+    "english": "pupil",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 234,
+    "french": "docteur",
+    "english": "doctor",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 235,
+    "french": "infirmier",
+    "english": "nurse male",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 236,
+    "french": "infirmière",
+    "english": "nurse female",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 237,
+    "french": "serveur",
+    "english": "waiter",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 238,
+    "french": "serveuse",
+    "english": "waitress",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 239,
+    "french": "vendeur",
+    "english": "salesperson male",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 240,
+    "french": "vendeuse",
+    "english": "salesperson female",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 241,
+    "french": "policier",
+    "english": "police officer male",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 242,
+    "french": "policière",
+    "english": "police officer female",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 243,
+    "french": "mère",
+    "english": "mother",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 244,
+    "french": "père",
+    "english": "father",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 245,
+    "french": "parents",
+    "english": "parents",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 246,
+    "french": "frère",
+    "english": "brother",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 247,
+    "french": "sœur",
+    "english": "sister",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 248,
+    "french": "fils",
+    "english": "son",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 249,
+    "french": "fille enfant",
+    "english": "daughter",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 250,
+    "french": "enfant",
+    "english": "child",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 251,
+    "french": "famille",
+    "english": "family",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 252,
+    "french": "mari",
+    "english": "husband",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 253,
+    "french": "femme mariée",
+    "english": "wife",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 254,
+    "french": "grand-père",
+    "english": "grandfather",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 255,
+    "french": "grand-mère",
+    "english": "grandmother",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 256,
+    "french": "oncle",
+    "english": "uncle",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 257,
+    "french": "tante",
+    "english": "aunt",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 258,
+    "french": "cousin",
+    "english": "cousin male",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 259,
+    "french": "cousine",
+    "english": "cousin female",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 260,
+    "french": "petit ami",
+    "english": "boyfriend",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 261,
+    "french": "petite amie",
+    "english": "girlfriend",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 262,
+    "french": "monsieur",
+    "english": "sir",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 263,
+    "french": "madame",
+    "english": "madam",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 264,
+    "french": "mademoiselle",
+    "english": "miss",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 265,
+    "french": "nom",
+    "english": "name",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 266,
+    "french": "prénom",
+    "english": "first name",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 267,
+    "french": "âge",
+    "english": "age",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 268,
+    "french": "adresse",
+    "english": "address",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 269,
+    "french": "numéro",
+    "english": "number",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 270,
+    "french": "téléphone",
+    "english": "telephone",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 271,
+    "french": "courriel",
+    "english": "email",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 272,
+    "french": "message",
+    "english": "message",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 273,
+    "french": "lettre",
+    "english": "letter",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 274,
+    "french": "photo",
+    "english": "photo",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 275,
+    "french": "histoire",
+    "english": "story",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 276,
+    "french": "question",
+    "english": "question",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 277,
+    "french": "réponse",
+    "english": "answer",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 278,
+    "french": "idée",
+    "english": "idea",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 279,
+    "french": "problème",
+    "english": "problem",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 280,
+    "french": "solution",
+    "english": "solution",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 281,
+    "french": "choix",
+    "english": "choice",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 282,
+    "french": "raison",
+    "english": "reason",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 283,
+    "french": "vérité",
+    "english": "truth",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 284,
+    "french": "erreur",
+    "english": "mistake",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 285,
+    "french": "chance",
+    "english": "luck",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 286,
+    "french": "temps libre",
+    "english": "free time",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 287,
+    "french": "vacances",
+    "english": "vacation",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 288,
+    "french": "fête",
+    "english": "party",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 289,
+    "french": "anniversaire",
+    "english": "birthday",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 290,
+    "french": "cadeau",
+    "english": "gift",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 291,
+    "french": "aide",
+    "english": "help",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 292,
+    "french": "conseil",
+    "english": "advice",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 293,
+    "french": "secret",
+    "english": "secret",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 294,
+    "french": "rêve",
+    "english": "dream",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 295,
+    "french": "souvenir",
+    "english": "memory",
+    "level": "A1",
+    "category": "people"
+  },
+  {
+    "id": 296,
+    "french": "maison",
+    "english": "house",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 297,
+    "french": "appartement",
+    "english": "apartment",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 298,
+    "french": "chambre",
+    "english": "room",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 299,
+    "french": "salon",
+    "english": "living room",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 300,
+    "french": "cuisine",
+    "english": "kitchen",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 301,
+    "french": "salle de bain",
+    "english": "bathroom",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 302,
+    "french": "toilettes",
+    "english": "toilet",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 303,
+    "french": "porte",
+    "english": "door",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 304,
+    "french": "fenêtre",
+    "english": "window",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 305,
+    "french": "mur",
+    "english": "wall",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 306,
+    "french": "sol",
+    "english": "floor",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 307,
+    "french": "plafond",
+    "english": "ceiling",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 308,
+    "french": "table",
+    "english": "table",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 309,
+    "french": "chaise",
+    "english": "chair",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 310,
+    "french": "canapé",
+    "english": "sofa",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 311,
+    "french": "lit",
+    "english": "bed",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 312,
+    "french": "bureau",
+    "english": "desk",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 313,
+    "french": "armoire",
+    "english": "wardrobe",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 314,
+    "french": "étagère",
+    "english": "shelf",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 315,
+    "french": "lampe",
+    "english": "lamp",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 316,
+    "french": "clé",
+    "english": "key",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 317,
+    "french": "serrure",
+    "english": "lock",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 318,
+    "french": "sac",
+    "english": "bag",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 319,
+    "french": "valise",
+    "english": "suitcase",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 320,
+    "french": "vêtement",
+    "english": "clothing",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 321,
+    "french": "chemise",
+    "english": "shirt",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 322,
+    "french": "t-shirt",
+    "english": "t-shirt",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 323,
+    "french": "pantalon",
+    "english": "pants",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 324,
+    "french": "jupe",
+    "english": "skirt",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 325,
+    "french": "robe",
+    "english": "dress",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 326,
+    "french": "veste",
+    "english": "jacket",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 327,
+    "french": "manteau",
+    "english": "coat",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 328,
+    "french": "chaussure",
+    "english": "shoe",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 329,
+    "french": "chaussette",
+    "english": "sock",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 330,
+    "french": "chapeau",
+    "english": "hat",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 331,
+    "french": "lunettes",
+    "english": "glasses",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 332,
+    "french": "montre",
+    "english": "watch",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 333,
+    "french": "brosse",
+    "english": "brush",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 334,
+    "french": "savon",
+    "english": "soap",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 335,
+    "french": "serviette",
+    "english": "towel",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 336,
+    "french": "couverture",
+    "english": "blanket",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 337,
+    "french": "oreiller",
+    "english": "pillow",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 338,
+    "french": "réveil",
+    "english": "alarm clock",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 339,
+    "french": "miroir",
+    "english": "mirror",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 340,
+    "french": "frigo",
+    "english": "fridge",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 341,
+    "french": "four",
+    "english": "oven",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 342,
+    "french": "micro-ondes",
+    "english": "microwave",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 343,
+    "french": "assiette",
+    "english": "plate",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 344,
+    "french": "bol",
+    "english": "bowl",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 345,
+    "french": "verre",
+    "english": "glass",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 346,
+    "french": "tasse",
+    "english": "cup",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 347,
+    "french": "couteau",
+    "english": "knife",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 348,
+    "french": "fourchette",
+    "english": "fork",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 349,
+    "french": "cuillère",
+    "english": "spoon",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 350,
+    "french": "bouteille",
+    "english": "bottle",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 351,
+    "french": "boîte",
+    "english": "box",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 352,
+    "french": "panier",
+    "english": "basket",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 353,
+    "french": "poubelle",
+    "english": "trash can",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 354,
+    "french": "ménage",
+    "english": "housework",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 355,
+    "french": "lessive",
+    "english": "laundry",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 356,
+    "french": "nettoyer",
+    "english": "to clean",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 357,
+    "french": "ranger",
+    "english": "to tidy",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 358,
+    "french": "ouvrir la porte",
+    "english": "to open the door",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 359,
+    "french": "fermer la fenêtre",
+    "english": "to close the window",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 360,
+    "french": "mettre la table",
+    "english": "to set the table",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 361,
+    "french": "faire la vaisselle",
+    "english": "to wash dishes",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 362,
+    "french": "prendre une douche",
+    "english": "to take a shower",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 363,
+    "french": "se lever",
+    "english": "to get up",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 364,
+    "french": "se coucher",
+    "english": "to go to bed",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 365,
+    "french": "se reposer",
+    "english": "to rest",
+    "level": "A1",
+    "category": "home"
+  },
+  {
+    "id": 366,
+    "french": "pain",
+    "english": "bread",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 367,
+    "french": "riz",
+    "english": "rice",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 368,
+    "french": "pâtes",
+    "english": "pasta",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 369,
+    "french": "soupe",
+    "english": "soup",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 370,
+    "french": "salade",
+    "english": "salad",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 371,
+    "french": "fromage",
+    "english": "cheese",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 372,
+    "french": "beurre",
+    "english": "butter",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 373,
+    "french": "lait",
+    "english": "milk",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 374,
+    "french": "yaourt",
+    "english": "yogurt",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 375,
+    "french": "œuf",
+    "english": "egg",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 376,
+    "french": "viande",
+    "english": "meat",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 377,
+    "french": "poulet",
+    "english": "chicken",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 378,
+    "french": "poisson",
+    "english": "fish",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 379,
+    "french": "jambon",
+    "english": "ham",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 380,
+    "french": "steak",
+    "english": "steak",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 381,
+    "french": "légume",
+    "english": "vegetable",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 382,
+    "french": "fruit",
+    "english": "fruit",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 383,
+    "french": "pomme",
+    "english": "apple",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 384,
+    "french": "banane",
+    "english": "banana",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 385,
+    "french": "orange",
+    "english": "orange fruit",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 386,
+    "french": "raisin",
+    "english": "grape",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 387,
+    "french": "fraise",
+    "english": "strawberry",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 388,
+    "french": "citron",
+    "english": "lemon",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 389,
+    "french": "tomate",
+    "english": "tomato",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 390,
+    "french": "carotte",
+    "english": "carrot",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 391,
+    "french": "pomme de terre",
+    "english": "potato",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 392,
+    "french": "oignon",
+    "english": "onion",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 393,
+    "french": "ail",
+    "english": "garlic",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 394,
+    "french": "champignon",
+    "english": "mushroom",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 395,
+    "french": "haricot",
+    "english": "bean",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 396,
+    "french": "petit déjeuner",
+    "english": "breakfast",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 397,
+    "french": "déjeuner",
+    "english": "lunch",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 398,
+    "french": "dîner",
+    "english": "dinner",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 399,
+    "french": "dessert",
+    "english": "dessert",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 400,
+    "french": "gâteau",
+    "english": "cake",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 401,
+    "french": "biscuit",
+    "english": "cookie",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 402,
+    "french": "chocolat",
+    "english": "chocolate",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 403,
+    "french": "sucre",
+    "english": "sugar",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 404,
+    "french": "sel",
+    "english": "salt",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 405,
+    "french": "poivre",
+    "english": "pepper",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 406,
+    "french": "huile",
+    "english": "oil",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 407,
+    "french": "eau",
+    "english": "water",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 408,
+    "french": "café",
+    "english": "coffee",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 409,
+    "french": "thé",
+    "english": "tea",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 410,
+    "french": "jus",
+    "english": "juice",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 411,
+    "french": "bière",
+    "english": "beer",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 412,
+    "french": "vin",
+    "english": "wine",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 413,
+    "french": "repas",
+    "english": "meal",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 414,
+    "french": "faim",
+    "english": "hunger",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 415,
+    "french": "soif",
+    "english": "thirst",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 416,
+    "french": "restaurant",
+    "english": "restaurant",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 417,
+    "french": "menu",
+    "english": "menu",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 418,
+    "french": "plat",
+    "english": "dish",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 419,
+    "french": "addition",
+    "english": "bill",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 420,
+    "french": "réserver",
+    "english": "to reserve",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 421,
+    "french": "commander",
+    "english": "to order",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 422,
+    "french": "cuisiner",
+    "english": "to cook",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 423,
+    "french": "goûter",
+    "english": "to taste",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 424,
+    "french": "couper",
+    "english": "to cut",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 425,
+    "french": "mélanger",
+    "english": "to mix",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 426,
+    "french": "chaud",
+    "english": "hot",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 427,
+    "french": "froid",
+    "english": "cold",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 428,
+    "french": "sucré",
+    "english": "sweet",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 429,
+    "french": "salé",
+    "english": "salty",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 430,
+    "french": "délicieux",
+    "english": "delicious",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 431,
+    "french": "simple",
+    "english": "simple",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 432,
+    "french": "cher",
+    "english": "expensive",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 433,
+    "french": "bon marché",
+    "english": "cheap",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 434,
+    "french": "végétarien",
+    "english": "vegetarian",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 435,
+    "french": "allergie",
+    "english": "allergy",
+    "level": "A1",
+    "category": "food"
+  },
+  {
+    "id": 436,
+    "french": "ville",
+    "english": "city",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 437,
+    "french": "village",
+    "english": "village",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 438,
+    "french": "rue",
+    "english": "street",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 439,
+    "french": "route",
+    "english": "road",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 440,
+    "french": "pont",
+    "english": "bridge",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 441,
+    "french": "place",
+    "english": "square",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 442,
+    "french": "carrefour",
+    "english": "intersection",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 443,
+    "french": "quartier",
+    "english": "neighborhood",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 444,
+    "french": "gare",
+    "english": "train station",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 445,
+    "french": "aéroport",
+    "english": "airport",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 446,
+    "french": "bus",
+    "english": "bus",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 447,
+    "french": "métro",
+    "english": "subway",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 448,
+    "french": "train",
+    "english": "train",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 449,
+    "french": "tramway",
+    "english": "tram",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 450,
+    "french": "taxi",
+    "english": "taxi",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 451,
+    "french": "voiture",
+    "english": "car",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 452,
+    "french": "vélo",
+    "english": "bicycle",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 453,
+    "french": "moto",
+    "english": "motorcycle",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 454,
+    "french": "billet",
+    "english": "ticket",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 455,
+    "french": "passeport",
+    "english": "passport",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 456,
+    "french": "carte",
+    "english": "map",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 457,
+    "french": "plan",
+    "english": "plan",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 458,
+    "french": "centre-ville",
+    "english": "downtown",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 459,
+    "french": "hôtel",
+    "english": "hotel",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 460,
+    "french": "auberge",
+    "english": "hostel",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 461,
+    "french": "réservation",
+    "english": "reservation",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 462,
+    "french": "ascenseur",
+    "english": "elevator",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 463,
+    "french": "escalier",
+    "english": "stairs",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 464,
+    "french": "entrée",
+    "english": "entrance",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 465,
+    "french": "sortie",
+    "english": "exit",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 466,
+    "french": "parking",
+    "english": "parking",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 467,
+    "french": "station",
+    "english": "station",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 468,
+    "french": "arrêt",
+    "english": "stop",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 469,
+    "french": "retard",
+    "english": "delay",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 470,
+    "french": "voyage",
+    "english": "trip",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 471,
+    "french": "tourisme",
+    "english": "tourism",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 472,
+    "french": "touriste",
+    "english": "tourist",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 473,
+    "french": "visite",
+    "english": "visit",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 474,
+    "french": "musée",
+    "english": "museum",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 475,
+    "french": "monument",
+    "english": "monument",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 476,
+    "french": "parc",
+    "english": "park",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 477,
+    "french": "jardin",
+    "english": "garden",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 478,
+    "french": "plage",
+    "english": "beach",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 479,
+    "french": "montagne",
+    "english": "mountain",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 480,
+    "french": "mer",
+    "english": "sea",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 481,
+    "french": "rivière",
+    "english": "river",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 482,
+    "french": "campagne",
+    "english": "countryside",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 483,
+    "french": "direction",
+    "english": "direction",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 484,
+    "french": "droite",
+    "english": "right",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 485,
+    "french": "gauche",
+    "english": "left",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 486,
+    "french": "tout droit",
+    "english": "straight ahead",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 487,
+    "french": "loin",
+    "english": "far",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 488,
+    "french": "près",
+    "english": "near",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 489,
+    "french": "coin",
+    "english": "corner",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 490,
+    "french": "chemin",
+    "english": "path",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 491,
+    "french": "partir en voyage",
+    "english": "to go on a trip",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 492,
+    "french": "prendre le train",
+    "english": "to take the train",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 493,
+    "french": "rater le bus",
+    "english": "to miss the bus",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 494,
+    "french": "changer de ligne",
+    "english": "to change lines",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 495,
+    "french": "monter",
+    "english": "to go up",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 496,
+    "french": "descendre",
+    "english": "to go down",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 497,
+    "french": "tourner",
+    "english": "to turn",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 498,
+    "french": "traverser",
+    "english": "to cross",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 499,
+    "french": "marcher",
+    "english": "to walk",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 500,
+    "french": "conduire",
+    "english": "to drive",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 501,
+    "french": "voler",
+    "english": "to fly",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 502,
+    "french": "naviguer",
+    "english": "to sail",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 503,
+    "french": "arriver à l’heure",
+    "english": "to arrive on time",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 504,
+    "french": "être perdu",
+    "english": "to be lost",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 505,
+    "french": "demander son chemin",
+    "english": "to ask for directions",
+    "level": "A1",
+    "category": "travel"
+  },
+  {
+    "id": 506,
+    "french": "école",
+    "english": "school",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 507,
+    "french": "université",
+    "english": "university",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 508,
+    "french": "classe",
+    "english": "classroom",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 509,
+    "french": "cours",
+    "english": "course",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 510,
+    "french": "leçon",
+    "english": "lesson",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 511,
+    "french": "devoirs",
+    "english": "homework",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 512,
+    "french": "exercice",
+    "english": "exercise",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 513,
+    "french": "examen",
+    "english": "exam",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 514,
+    "french": "note",
+    "english": "grade",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 515,
+    "french": "stylo",
+    "english": "pen",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 516,
+    "french": "crayon",
+    "english": "pencil",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 517,
+    "french": "cahier",
+    "english": "notebook",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 518,
+    "french": "livre",
+    "english": "book",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 519,
+    "french": "page",
+    "english": "page",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 520,
+    "french": "mot",
+    "english": "word",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 521,
+    "french": "phrase",
+    "english": "sentence",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 522,
+    "french": "grammaire",
+    "english": "grammar",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 523,
+    "french": "orthographe",
+    "english": "spelling",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 524,
+    "french": "prononciation",
+    "english": "pronunciation",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 525,
+    "french": "langue",
+    "english": "language",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 526,
+    "french": "français",
+    "english": "French language",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 527,
+    "french": "anglais",
+    "english": "English language",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 528,
+    "french": "ordinateur",
+    "english": "computer",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 529,
+    "french": "portable",
+    "english": "laptop",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 530,
+    "french": "écran",
+    "english": "screen",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 531,
+    "french": "clavier",
+    "english": "keyboard",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 532,
+    "french": "souris",
+    "english": "computer mouse",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 533,
+    "french": "internet",
+    "english": "internet",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 534,
+    "french": "site",
+    "english": "website",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 535,
+    "french": "application",
+    "english": "app",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 536,
+    "french": "fichier",
+    "english": "file",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 537,
+    "french": "dossier",
+    "english": "folder",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 538,
+    "french": "mot de passe",
+    "english": "password",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 539,
+    "french": "compte",
+    "english": "account",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 540,
+    "french": "bureau travail",
+    "english": "office",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 541,
+    "french": "réunion",
+    "english": "meeting",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 542,
+    "french": "projet",
+    "english": "project",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 543,
+    "french": "emploi",
+    "english": "job",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 544,
+    "french": "travail équipe",
+    "english": "teamwork",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 545,
+    "french": "expérience",
+    "english": "experience",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 546,
+    "french": "stage",
+    "english": "internship",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 547,
+    "french": "salaire",
+    "english": "salary",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 548,
+    "french": "contrat",
+    "english": "contract",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 549,
+    "french": "entreprise",
+    "english": "company",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 550,
+    "french": "service",
+    "english": "service",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 551,
+    "french": "objectif",
+    "english": "goal",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 552,
+    "french": "résultat",
+    "english": "result",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 553,
+    "french": "clientèle",
+    "english": "client base",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 554,
+    "french": "présenter",
+    "english": "to present",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 555,
+    "french": "étudier",
+    "english": "to study",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 556,
+    "french": "apprendre",
+    "english": "to learn",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 557,
+    "french": "enseigner",
+    "english": "to teach",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 558,
+    "french": "réviser",
+    "english": "to review",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 559,
+    "french": "réussir",
+    "english": "to succeed",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 560,
+    "french": "échouer",
+    "english": "to fail",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 561,
+    "french": "expliquer",
+    "english": "to explain",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 562,
+    "french": "corriger",
+    "english": "to correct",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 563,
+    "french": "imprimer",
+    "english": "to print",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 564,
+    "french": "envoyer",
+    "english": "to send",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 565,
+    "french": "recevoir",
+    "english": "to receive",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 566,
+    "french": "télécharger",
+    "english": "to download",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 567,
+    "french": "cliquer",
+    "english": "to click",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 568,
+    "french": "chercher",
+    "english": "to search",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 569,
+    "french": "répondre",
+    "english": "to answer",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 570,
+    "french": "signer",
+    "english": "to sign",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 571,
+    "french": "organiser",
+    "english": "to organize",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 572,
+    "french": "préparer",
+    "english": "to prepare",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 573,
+    "french": "planifier",
+    "english": "to plan",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 574,
+    "french": "participer",
+    "english": "to participate",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 575,
+    "french": "gagner",
+    "english": "to earn",
+    "level": "A2",
+    "category": "school"
+  },
+  {
+    "id": 576,
+    "french": "corps",
+    "english": "body",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 577,
+    "french": "tête",
+    "english": "head",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 578,
+    "french": "visage",
+    "english": "face",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 579,
+    "french": "œil",
+    "english": "eye",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 580,
+    "french": "nez",
+    "english": "nose",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 581,
+    "french": "bouche",
+    "english": "mouth",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 582,
+    "french": "oreille",
+    "english": "ear",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 583,
+    "french": "dent",
+    "english": "tooth",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 584,
+    "french": "langue bouche",
+    "english": "tongue",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 585,
+    "french": "cou",
+    "english": "neck",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 586,
+    "french": "épaule",
+    "english": "shoulder",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 587,
+    "french": "bras",
+    "english": "arm",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 588,
+    "french": "main",
+    "english": "hand",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 589,
+    "french": "doigt",
+    "english": "finger",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 590,
+    "french": "poitrine",
+    "english": "chest",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 591,
+    "french": "dos",
+    "english": "back",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 592,
+    "french": "ventre",
+    "english": "stomach",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 593,
+    "french": "jambe",
+    "english": "leg",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 594,
+    "french": "genou",
+    "english": "knee",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 595,
+    "french": "pied",
+    "english": "foot",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 596,
+    "french": "orteil",
+    "english": "toe",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 597,
+    "french": "peau",
+    "english": "skin",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 598,
+    "french": "sang",
+    "english": "blood",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 599,
+    "french": "cœur",
+    "english": "heart",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 600,
+    "french": "esprit",
+    "english": "mind",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 601,
+    "french": "santé",
+    "english": "health",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 602,
+    "french": "maladie",
+    "english": "illness",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 603,
+    "french": "rhume",
+    "english": "cold illness",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 604,
+    "french": "fièvre",
+    "english": "fever",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 605,
+    "french": "toux",
+    "english": "cough",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 606,
+    "french": "douleur",
+    "english": "pain",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 607,
+    "french": "blessure",
+    "english": "injury",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 608,
+    "french": "médicament",
+    "english": "medicine",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 609,
+    "french": "pharmacie",
+    "english": "pharmacy",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 610,
+    "french": "hôpital",
+    "english": "hospital",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 611,
+    "french": "rendez-vous médical",
+    "english": "medical appointment",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 612,
+    "french": "urgence",
+    "english": "emergency",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 613,
+    "french": "fatigue",
+    "english": "tiredness",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 614,
+    "french": "énergie",
+    "english": "energy",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 615,
+    "french": "repos",
+    "english": "rest",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 616,
+    "french": "sommeil",
+    "english": "sleep",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 617,
+    "french": "régime",
+    "english": "diet",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 618,
+    "french": "sport",
+    "english": "sport",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 619,
+    "french": "course",
+    "english": "run",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 620,
+    "french": "marche",
+    "english": "walk noun",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 621,
+    "french": "natation",
+    "english": "swimming",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 622,
+    "french": "danse",
+    "english": "dance",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 623,
+    "french": "vélo sport",
+    "english": "cycling",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 624,
+    "french": "respirer",
+    "english": "to breathe",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 625,
+    "french": "dormir",
+    "english": "to sleep",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 626,
+    "french": "se réveiller",
+    "english": "to wake up",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 627,
+    "french": "tomber malade",
+    "english": "to get sick",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 628,
+    "french": "guérir",
+    "english": "to heal",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 629,
+    "french": "grossir",
+    "english": "to gain weight",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 630,
+    "french": "maigrir",
+    "english": "to lose weight",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 631,
+    "french": "s’entraîner",
+    "english": "to train",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 632,
+    "french": "se détendre",
+    "english": "to relax",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 633,
+    "french": "se sentir bien",
+    "english": "to feel good",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 634,
+    "french": "avoir mal",
+    "english": "to hurt",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 635,
+    "french": "prendre soin de",
+    "english": "to take care of",
+    "level": "A2",
+    "category": "body"
+  },
+  {
+    "id": 636,
+    "french": "nature",
+    "english": "nature",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 637,
+    "french": "animal",
+    "english": "animal",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 638,
+    "french": "chien",
+    "english": "dog",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 639,
+    "french": "chat",
+    "english": "cat",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 640,
+    "french": "oiseau",
+    "english": "bird",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 641,
+    "french": "cheval",
+    "english": "horse",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 642,
+    "french": "poisson animal",
+    "english": "fish animal",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 643,
+    "french": "vache",
+    "english": "cow",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 644,
+    "french": "mouton",
+    "english": "sheep",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 645,
+    "french": "lapin",
+    "english": "rabbit",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 646,
+    "french": "forêt",
+    "english": "forest",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 647,
+    "french": "arbre",
+    "english": "tree",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 648,
+    "french": "fleur",
+    "english": "flower",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 649,
+    "french": "herbe",
+    "english": "grass",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 650,
+    "french": "terre",
+    "english": "earth",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 651,
+    "french": "ciel",
+    "english": "sky",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 652,
+    "french": "nuage",
+    "english": "cloud",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 653,
+    "french": "soleil",
+    "english": "sun",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 654,
+    "french": "lune",
+    "english": "moon",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 655,
+    "french": "étoile",
+    "english": "star",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 656,
+    "french": "pluie",
+    "english": "rain",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 657,
+    "french": "neige",
+    "english": "snow",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 658,
+    "french": "vent",
+    "english": "wind",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 659,
+    "french": "orage",
+    "english": "storm",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 660,
+    "french": "temps météo",
+    "english": "weather",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 661,
+    "french": "saison",
+    "english": "season",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 662,
+    "french": "printemps",
+    "english": "spring",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 663,
+    "french": "été",
+    "english": "summer",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 664,
+    "french": "automne",
+    "english": "autumn",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 665,
+    "french": "hiver",
+    "english": "winter",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 666,
+    "french": "chaleur",
+    "english": "heat",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 667,
+    "french": "frais",
+    "english": "cool",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 668,
+    "french": "sec",
+    "english": "dry",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 669,
+    "french": "humide",
+    "english": "humid",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 670,
+    "french": "clair",
+    "english": "clear",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 671,
+    "french": "sombre",
+    "english": "dark",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 672,
+    "french": "lever du soleil",
+    "english": "sunrise",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 673,
+    "french": "coucher du soleil",
+    "english": "sunset",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 674,
+    "french": "océan",
+    "english": "ocean",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 675,
+    "french": "lac",
+    "english": "lake",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 676,
+    "french": "île",
+    "english": "island",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 677,
+    "french": "désert",
+    "english": "desert",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 678,
+    "french": "vallée",
+    "english": "valley",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 679,
+    "french": "colline",
+    "english": "hill",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 680,
+    "french": "route campagne",
+    "english": "country road",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 681,
+    "french": "feuille",
+    "english": "leaf",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 682,
+    "french": "branche",
+    "english": "branch",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 683,
+    "french": "graine",
+    "english": "seed",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 684,
+    "french": "jardinage",
+    "english": "gardening",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 685,
+    "french": "protéger",
+    "english": "to protect",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 686,
+    "french": "planter",
+    "english": "to plant",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 687,
+    "french": "arroser",
+    "english": "to water plants",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 688,
+    "french": "grandir",
+    "english": "to grow",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 689,
+    "french": "briller",
+    "english": "to shine",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 690,
+    "french": "pleuvoir",
+    "english": "to rain",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 691,
+    "french": "neiger",
+    "english": "to snow",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 692,
+    "french": "geler",
+    "english": "to freeze",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 693,
+    "french": "pollution",
+    "english": "pollution",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 694,
+    "french": "propre",
+    "english": "clean",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 695,
+    "french": "sale",
+    "english": "dirty",
+    "level": "A2",
+    "category": "nature"
+  },
+  {
+    "id": 696,
+    "french": "grand",
+    "english": "big",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 697,
+    "french": "petit",
+    "english": "small",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 698,
+    "french": "long",
+    "english": "long",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 699,
+    "french": "court",
+    "english": "short",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 700,
+    "french": "large",
+    "english": "wide",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 701,
+    "french": "étroit",
+    "english": "narrow",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 702,
+    "french": "haut",
+    "english": "high",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 703,
+    "french": "bas",
+    "english": "low",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 704,
+    "french": "jeune",
+    "english": "young",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 705,
+    "french": "vieux",
+    "english": "old",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 706,
+    "french": "nouveau",
+    "english": "new",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 707,
+    "french": "ancien",
+    "english": "former",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 708,
+    "french": "bon",
+    "english": "good",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 709,
+    "french": "mauvais",
+    "english": "bad",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 710,
+    "french": "meilleur",
+    "english": "better",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 711,
+    "french": "pire",
+    "english": "worse",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 712,
+    "french": "facile",
+    "english": "easy",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 713,
+    "french": "difficile",
+    "english": "difficult",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 714,
+    "french": "important",
+    "english": "important",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 715,
+    "french": "utile",
+    "english": "useful",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 716,
+    "french": "possible",
+    "english": "possible",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 717,
+    "french": "impossible",
+    "english": "impossible",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 718,
+    "french": "intéressant",
+    "english": "interesting",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 719,
+    "french": "ennuyeux",
+    "english": "boring",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 720,
+    "french": "drôle",
+    "english": "funny",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 721,
+    "french": "sérieux",
+    "english": "serious",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 722,
+    "french": "gentil",
+    "english": "kind",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 723,
+    "french": "méchant",
+    "english": "mean",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 724,
+    "french": "heureux",
+    "english": "happy",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 725,
+    "french": "triste",
+    "english": "sad",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 726,
+    "french": "calme",
+    "english": "calm",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 727,
+    "french": "nerveux",
+    "english": "nervous",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 728,
+    "french": "fatigué",
+    "english": "tired",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 729,
+    "french": "occupé",
+    "english": "busy",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 730,
+    "french": "libre",
+    "english": "free",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 731,
+    "french": "prêt",
+    "english": "ready",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 732,
+    "french": "ouvert",
+    "english": "open adjective",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 733,
+    "french": "fermé",
+    "english": "closed",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 734,
+    "french": "plein",
+    "english": "full",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 735,
+    "french": "vide",
+    "english": "empty",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 736,
+    "french": "fort",
+    "english": "strong",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 737,
+    "french": "faible",
+    "english": "weak",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 738,
+    "french": "riche",
+    "english": "rich",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 739,
+    "french": "pauvre",
+    "english": "poor",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 740,
+    "french": "rapide",
+    "english": "fast",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 741,
+    "french": "lent",
+    "english": "slow adjective",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 742,
+    "french": "beau",
+    "english": "beautiful",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 743,
+    "french": "joli",
+    "english": "pretty",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 744,
+    "french": "laid",
+    "english": "ugly",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 745,
+    "french": "prochain proche",
+    "english": "close by",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 746,
+    "french": "loin adjectif",
+    "english": "far away",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 747,
+    "french": "vrai",
+    "english": "true",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 748,
+    "french": "faux",
+    "english": "false",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 749,
+    "french": "simple adjectif",
+    "english": "simple adjective",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 750,
+    "french": "compliqué",
+    "english": "complicated",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 751,
+    "french": "normal",
+    "english": "normal",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 752,
+    "french": "spécial",
+    "english": "special",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 753,
+    "french": "génial",
+    "english": "great",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 754,
+    "french": "terrible",
+    "english": "terrible",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 755,
+    "french": "parfait",
+    "english": "perfect",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "id": 756,
+    "french": "amour",
+    "english": "love noun",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 757,
+    "french": "joie",
+    "english": "joy",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 758,
+    "french": "bonheur",
+    "english": "happiness",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 759,
+    "french": "plaisir",
+    "english": "pleasure",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 760,
+    "french": "peur",
+    "english": "fear",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 761,
+    "french": "colère",
+    "english": "anger",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 762,
+    "french": "stress",
+    "english": "stress",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 763,
+    "french": "surprise",
+    "english": "surprise",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 764,
+    "french": "confiance",
+    "english": "confidence",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 765,
+    "french": "honte",
+    "english": "shame",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 766,
+    "french": "jalousie",
+    "english": "jealousy",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 767,
+    "french": "espoir",
+    "english": "hope",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 768,
+    "french": "patience",
+    "english": "patience",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 769,
+    "french": "courage",
+    "english": "courage",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 770,
+    "french": "envie",
+    "english": "desire",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 771,
+    "french": "besoin",
+    "english": "need",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 772,
+    "french": "respect",
+    "english": "respect",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 773,
+    "french": "pardon",
+    "english": "forgiveness",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 774,
+    "french": "paix",
+    "english": "peace",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 775,
+    "french": "silence",
+    "english": "silence",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 776,
+    "french": "bruit",
+    "english": "noise",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 777,
+    "french": "rire",
+    "english": "laughter",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 778,
+    "french": "sourire",
+    "english": "smile",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 779,
+    "french": "larme",
+    "english": "tear",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 780,
+    "french": "rire verbe",
+    "english": "to laugh",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 781,
+    "french": "sourire verbe",
+    "english": "to smile",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 782,
+    "french": "pleurer",
+    "english": "to cry",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 783,
+    "french": "espérer",
+    "english": "to hope",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 784,
+    "french": "aimer beaucoup",
+    "english": "to really like",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 785,
+    "french": "détester",
+    "english": "to hate",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 786,
+    "french": "préférer",
+    "english": "to prefer",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 787,
+    "french": "s’inquiéter",
+    "english": "to worry",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 788,
+    "french": "se souvenir",
+    "english": "to remember",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 789,
+    "french": "oublier",
+    "english": "to forget",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 790,
+    "french": "pardonner",
+    "english": "to forgive",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 791,
+    "french": "partager",
+    "english": "to share",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 792,
+    "french": "respecter",
+    "english": "to respect",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 793,
+    "french": "encourager",
+    "english": "to encourage",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 794,
+    "french": "soutenir",
+    "english": "to support",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 795,
+    "french": "faire confiance",
+    "english": "to trust",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 796,
+    "french": "avoir besoin de",
+    "english": "to need",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 797,
+    "french": "avoir envie de",
+    "english": "to feel like",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 798,
+    "french": "être content",
+    "english": "to be happy",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 799,
+    "french": "être triste émotion",
+    "english": "to be sad",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 800,
+    "french": "être en colère",
+    "english": "to be angry",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 801,
+    "french": "avoir peur",
+    "english": "to be afraid",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 802,
+    "french": "être stressé",
+    "english": "to be stressed",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 803,
+    "french": "être surpris",
+    "english": "to be surprised",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 804,
+    "french": "être fier",
+    "english": "to be proud",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 805,
+    "french": "être gêné",
+    "english": "to be embarrassed",
+    "level": "A2",
+    "category": "feelings"
+  },
+  {
+    "id": 806,
+    "french": "gouvernement",
+    "english": "government",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 807,
+    "french": "politique",
+    "english": "politics",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 808,
+    "french": "loi",
+    "english": "law",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 809,
+    "french": "règle",
+    "english": "rule",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 810,
+    "french": "droit",
+    "english": "right noun",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 811,
+    "french": "justice",
+    "english": "justice",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 812,
+    "french": "liberté",
+    "english": "freedom",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 813,
+    "french": "égalité",
+    "english": "equality",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 814,
+    "french": "culture",
+    "english": "culture",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 815,
+    "french": "tradition",
+    "english": "tradition",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 816,
+    "french": "religion",
+    "english": "religion",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 817,
+    "french": "journal",
+    "english": "newspaper",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 818,
+    "french": "actualité",
+    "english": "news",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 819,
+    "french": "média",
+    "english": "media",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 820,
+    "french": "économie",
+    "english": "economy",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 821,
+    "french": "argent",
+    "english": "money",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 822,
+    "french": "banque",
+    "english": "bank",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 823,
+    "french": "prix",
+    "english": "price",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 824,
+    "french": "coût",
+    "english": "cost",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 825,
+    "french": "valeur",
+    "english": "value",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 826,
+    "french": "marché",
+    "english": "market",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 827,
+    "french": "public",
+    "english": "public",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 828,
+    "french": "privé",
+    "english": "private",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 829,
+    "french": "association",
+    "english": "association",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 830,
+    "french": "communauté",
+    "english": "community",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 831,
+    "french": "voix",
+    "english": "voice",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 832,
+    "french": "vote",
+    "english": "vote noun",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 833,
+    "french": "guerre",
+    "english": "war",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 834,
+    "french": "paix société",
+    "english": "peace in society",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 835,
+    "french": "sécurité",
+    "english": "security",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 836,
+    "french": "danger",
+    "english": "danger",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 837,
+    "french": "risque",
+    "english": "risk",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 838,
+    "french": "secours",
+    "english": "aid services",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 839,
+    "french": "accident",
+    "english": "accident",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 840,
+    "french": "incendie",
+    "english": "fire accident",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 841,
+    "french": "vol",
+    "english": "theft",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 842,
+    "french": "crime",
+    "english": "crime",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 843,
+    "french": "preuve",
+    "english": "proof",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 844,
+    "french": "responsabilité",
+    "english": "responsibility",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 845,
+    "french": "devoir civique",
+    "english": "civic duty",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 846,
+    "french": "citoyen",
+    "english": "citizen male",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 847,
+    "french": "citoyenne",
+    "english": "citizen female",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 848,
+    "french": "voix démocratique",
+    "english": "democratic voice",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 849,
+    "french": "débattre",
+    "english": "to debate",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 850,
+    "french": "voter",
+    "english": "to vote",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 851,
+    "french": "décider",
+    "english": "to decide",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 852,
+    "french": "proposer",
+    "english": "to propose",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 853,
+    "french": "autoriser",
+    "english": "to authorize",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 854,
+    "french": "interdire",
+    "english": "to forbid",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 855,
+    "french": "protester",
+    "english": "to protest",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 856,
+    "french": "négocier",
+    "english": "to negotiate",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 857,
+    "french": "défendre",
+    "english": "to defend",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 858,
+    "french": "attaquer",
+    "english": "to attack",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 859,
+    "french": "respecter la loi",
+    "english": "to obey the law",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 860,
+    "french": "briser une règle",
+    "english": "to break a rule",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 861,
+    "french": "appartenir",
+    "english": "to belong",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 862,
+    "french": "se réunir",
+    "english": "to gather",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 863,
+    "french": "s’engager",
+    "english": "to commit oneself",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 864,
+    "french": "coopérer",
+    "english": "to cooperate",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 865,
+    "french": "influencer",
+    "english": "to influence",
+    "level": "B1",
+    "category": "society"
+  },
+  {
+    "id": 866,
+    "french": "pensée",
+    "english": "thought",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 867,
+    "french": "mémoire",
+    "english": "memory faculty",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 868,
+    "french": "imagination",
+    "english": "imagination",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 869,
+    "french": "connaissance",
+    "english": "knowledge",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 870,
+    "french": "opinion",
+    "english": "opinion",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 871,
+    "french": "point de vue",
+    "english": "point of view",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 872,
+    "french": "sens",
+    "english": "meaning",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 873,
+    "french": "but",
+    "english": "purpose",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 874,
+    "french": "cause",
+    "english": "cause",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 875,
+    "french": "effet",
+    "english": "effect",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 876,
+    "french": "début",
+    "english": "beginning",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 877,
+    "french": "milieu",
+    "english": "middle",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 878,
+    "french": "fin",
+    "english": "end",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 879,
+    "french": "avenir",
+    "english": "future",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 880,
+    "french": "passé",
+    "english": "past",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 881,
+    "french": "présent",
+    "english": "present time",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 882,
+    "french": "succès",
+    "english": "success",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 883,
+    "french": "échec",
+    "english": "failure",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 884,
+    "french": "habitude",
+    "english": "habit",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 885,
+    "french": "progrès",
+    "english": "progress",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 886,
+    "french": "changement",
+    "english": "change",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 887,
+    "french": "développement",
+    "english": "development",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 888,
+    "french": "méthode",
+    "english": "method",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 889,
+    "french": "système",
+    "english": "system",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 890,
+    "french": "niveau",
+    "english": "level",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 891,
+    "french": "étape",
+    "english": "step",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 892,
+    "french": "détail",
+    "english": "detail",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 893,
+    "french": "ensemble",
+    "english": "whole",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 894,
+    "french": "partie",
+    "english": "part",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 895,
+    "french": "forme",
+    "english": "shape",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 896,
+    "french": "espace",
+    "english": "space",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 897,
+    "french": "distance",
+    "english": "distance",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 898,
+    "french": "vitesse",
+    "english": "speed",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 899,
+    "french": "poids",
+    "english": "weight",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 900,
+    "french": "mesure",
+    "english": "measurement",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 901,
+    "french": "qualité",
+    "english": "quality",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 902,
+    "french": "quantité",
+    "english": "quantity",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 903,
+    "french": "différence",
+    "english": "difference",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 904,
+    "french": "ressemblance",
+    "english": "similarity",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 905,
+    "french": "relation",
+    "english": "relationship",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 906,
+    "french": "lien",
+    "english": "link",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 907,
+    "french": "contexte",
+    "english": "context",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 908,
+    "french": "exemple",
+    "english": "example",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 909,
+    "french": "modèle",
+    "english": "model",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 910,
+    "french": "concept",
+    "english": "concept",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 911,
+    "french": "imaginer",
+    "english": "to imagine",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 912,
+    "french": "réfléchir",
+    "english": "to reflect",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 913,
+    "french": "analyser",
+    "english": "to analyze",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 914,
+    "french": "comparer",
+    "english": "to compare",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 915,
+    "french": "distinguer",
+    "english": "to distinguish",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 916,
+    "french": "supposer",
+    "english": "to suppose",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 917,
+    "french": "considérer",
+    "english": "to consider",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 918,
+    "french": "résumer",
+    "english": "to summarize",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 919,
+    "french": "décrire",
+    "english": "to describe",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 920,
+    "french": "prouver",
+    "english": "to prove",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 921,
+    "french": "créer",
+    "english": "to create",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 922,
+    "french": "inventer",
+    "english": "to invent",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 923,
+    "french": "améliorer",
+    "english": "to improve",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 924,
+    "french": "réduire",
+    "english": "to reduce",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 925,
+    "french": "augmenter",
+    "english": "to increase",
+    "level": "B1",
+    "category": "abstract"
+  },
+  {
+    "id": 926,
+    "french": "agir",
+    "english": "to act",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 927,
+    "french": "bouger",
+    "english": "to move",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 928,
+    "french": "courir",
+    "english": "to run",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 929,
+    "french": "sauter",
+    "english": "to jump",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 930,
+    "french": "tirer",
+    "english": "to pull",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 931,
+    "french": "pousser",
+    "english": "to push",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 932,
+    "french": "lever",
+    "english": "to lift",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 933,
+    "french": "baisser",
+    "english": "to lower",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 934,
+    "french": "tomber",
+    "english": "to fall",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 935,
+    "french": "casser",
+    "english": "to break",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 936,
+    "french": "réparer",
+    "english": "to repair",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 937,
+    "french": "construire",
+    "english": "to build",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 938,
+    "french": "détruire",
+    "english": "to destroy",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 939,
+    "french": "crier",
+    "english": "to shout",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 940,
+    "french": "chanter",
+    "english": "to sing",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 941,
+    "french": "dessiner",
+    "english": "to draw",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 942,
+    "french": "peindre",
+    "english": "to paint",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 943,
+    "french": "filmer",
+    "english": "to film",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 944,
+    "french": "photographier",
+    "english": "to photograph",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 945,
+    "french": "voyager",
+    "english": "to travel",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 946,
+    "french": "nager",
+    "english": "to swim",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 947,
+    "french": "grimper",
+    "english": "to climb",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 948,
+    "french": "tomber amoureux",
+    "english": "to fall in love",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 949,
+    "french": "rencontrer",
+    "english": "to meet",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 950,
+    "french": "inviter",
+    "english": "to invite",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 951,
+    "french": "accepter",
+    "english": "to accept",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 952,
+    "french": "refuser",
+    "english": "to refuse",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 953,
+    "french": "essayer",
+    "english": "to try",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 954,
+    "french": "continuer",
+    "english": "to continue",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 955,
+    "french": "arrêter",
+    "english": "to stop",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 956,
+    "french": "choisir",
+    "english": "to choose",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 957,
+    "french": "changer",
+    "english": "to change",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 958,
+    "french": "retourner",
+    "english": "to return",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 959,
+    "french": "entrer",
+    "english": "to enter",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 960,
+    "french": "quitter",
+    "english": "to leave a place",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 961,
+    "french": "atteindre",
+    "english": "to reach",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 962,
+    "french": "éviter",
+    "english": "to avoid",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 963,
+    "french": "perdre",
+    "english": "to lose",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 964,
+    "french": "retrouver",
+    "english": "to find again",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 965,
+    "french": "tenir",
+    "english": "to hold",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 966,
+    "french": "appeler",
+    "english": "to call",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 967,
+    "french": "réveiller quelqu’un",
+    "english": "to wake someone",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 968,
+    "french": "s’habiller",
+    "english": "to get dressed",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 969,
+    "french": "se dépêcher",
+    "english": "to hurry",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 970,
+    "french": "ralentir",
+    "english": "to slow down",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 971,
+    "french": "se promener",
+    "english": "to take a walk",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 972,
+    "french": "installer",
+    "english": "to install",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 973,
+    "french": "brancher",
+    "english": "to plug in",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 974,
+    "french": "débrancher",
+    "english": "to unplug",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 975,
+    "french": "sauvegarder",
+    "english": "to save data",
+    "level": "B1",
+    "category": "actions"
+  },
+  {
+    "id": 976,
+    "french": "discussion",
+    "english": "discussion",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 977,
+    "french": "conversation",
+    "english": "conversation",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 978,
+    "french": "discours",
+    "english": "speech",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 979,
+    "french": "annonce",
+    "english": "announcement",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 980,
+    "french": "explication",
+    "english": "explanation",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 981,
+    "french": "description",
+    "english": "description",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 982,
+    "french": "opposition",
+    "english": "opposition",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 983,
+    "french": "accord",
+    "english": "agreement",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 984,
+    "french": "désaccord",
+    "english": "disagreement",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 985,
+    "french": "argument",
+    "english": "argument",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 986,
+    "french": "blague",
+    "english": "joke",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 987,
+    "french": "citation",
+    "english": "quote",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 988,
+    "french": "langage",
+    "english": "language system",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 989,
+    "french": "accent",
+    "english": "accent",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 990,
+    "french": "traduction",
+    "english": "translation",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 991,
+    "french": "interprétation",
+    "english": "interpretation",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 992,
+    "french": "conversation téléphonique",
+    "english": "phone conversation",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 993,
+    "french": "appel",
+    "english": "call noun",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 994,
+    "french": "avis",
+    "english": "opinion advice",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 995,
+    "french": "ordre",
+    "english": "order command",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 996,
+    "french": "demande",
+    "english": "request",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 997,
+    "french": "plainte",
+    "english": "complaint",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 998,
+    "french": "compliment",
+    "english": "compliment",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 999,
+    "french": "invitation",
+    "english": "invitation",
+    "level": "B1",
+    "category": "communication"
+  },
+  {
+    "id": 1000,
+    "french": "promesse",
+    "english": "promise",
+    "level": "B1",
+    "category": "communication"
+  }
+]

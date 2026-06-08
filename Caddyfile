@@ -1,0 +1,16 @@
+{$DOMAIN_NAME} {
+  encode gzip zstd
+
+  handle /api/* {
+    uri strip_prefix /api
+    reverse_proxy backend:3001
+  }
+
+  handle {
+    reverse_proxy frontend:80
+  }
+}
+
+www.{$DOMAIN_NAME} {
+  redir https://{$DOMAIN_NAME}{uri} permanent
+}
