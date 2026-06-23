@@ -8,24 +8,42 @@ export function primeFrenchVoices() {
   window.speechSynthesis.getVoices();
 }
 
+// ---------------------------------------------------------------------------
+// Session-level audio cache: keyed by "text@speed", stores decoded ArrayBuffer.
+// Avoids any network round-trip for words already heard in this tab session.
+// ---------------------------------------------------------------------------
+const sessionAudioCache = new Map<string, ArrayBuffer>();
+
 async function speakWithApi(text: string, speed = 1.0) {
   if (!API_BASE_URL) {
     throw new Error('TTS API is not configured.');
   }
 
-  const response = await fetch(`${API_BASE_URL}/tts`, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({ text, speed }),
-  });
+  const cacheKey = `${text.toLowerCase().trim()}@${speed.toFixed(2)}`;
+  let audioBuffer: ArrayBuffer | undefined = sessionAudioCache.get(cacheKey);
 
-  if (!response.ok) {
-    throw new Error(`TTS API request failed with ${response.status}.`);
+  if (!audioBuffer) {
+    // Cache miss — fetch from backend (which serves from its own disk cache)
+    const response = await fetch(`${API_BASE_URL}/tts`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ text, speed }),
+    });
+
+    if (!response.ok) {
+      throw new Error(`TTS API request failed with ${response.status}.`);
+    }
+
+    audioBuffer = await response.arrayBuffer();
+
+    // Keep the session cache bounded: evict oldest entry beyond 300 words
+    if (sessionAudioCache.size >= 300) {
+      sessionAudioCache.delete(sessionAudioCache.keys().next().value!);
+    }
+    sessionAudioCache.set(cacheKey, audioBuffer);
   }
 
-  const blob = await response.blob();
+  const blob = new Blob([audioBuffer], { type: 'audio/mpeg' });
   const audioUrl = URL.createObjectURL(blob);
 
   if (activeAudio) {
@@ -40,9 +58,7 @@ async function speakWithApi(text: string, speed = 1.0) {
     'ended',
     () => {
       URL.revokeObjectURL(audioUrl);
-      if (activeAudio === audio) {
-        activeAudio = null;
-      }
+      if (activeAudio === audio) activeAudio = null;
     },
     { once: true }
   );
@@ -51,15 +67,14 @@ async function speakWithApi(text: string, speed = 1.0) {
     'error',
     () => {
       URL.revokeObjectURL(audioUrl);
-      if (activeAudio === audio) {
-        activeAudio = null;
-      }
+      if (activeAudio === audio) activeAudio = null;
     },
     { once: true }
   );
 
   await audio.play();
 }
+
 
 function speakWithBrowser(text: string) {
   if (typeof window === 'undefined' || !window.speechSynthesis || !text.trim()) return;

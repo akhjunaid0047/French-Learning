@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 3001
 
-CMD ["bun", "run", "start"]
+CMD ["sh", "-c", "bun run prewarm && bun run start"]
