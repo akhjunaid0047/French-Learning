@@ -24,10 +24,15 @@ async function speakWithApi(text: string, speed = 1.0) {
 
   if (!audioBuffer) {
     // Cache miss — fetch from backend (which serves from its own disk cache)
+    const turnstileToken =
+      typeof window !== 'undefined'
+        ? (window as any).__turnstileToken ?? null
+        : null;
+
     const response = await fetch(`${API_BASE_URL}/tts`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ text, speed }),
+      body: JSON.stringify({ text, speed, turnstileToken }),
     });
 
     if (!response.ok) {

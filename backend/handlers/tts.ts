@@ -3,6 +3,7 @@ import { openai } from "../lib/openaiClient";
 import { cacheKey, memGet, memSet, diskGet, diskSet } from "../lib/cache";
 import { isRateLimited } from "../lib/rateLimit";
 import { corsHeaders, SECURITY_HEADERS } from "../lib/cors";
+import { verifyTurnstile } from "../lib/turnstile";
 import type { HeadersInit } from "bun";
 
 function audioResponse(buffer: Buffer, cors: HeadersInit): Response {
@@ -33,13 +34,22 @@ export async function handleTts(req: Request, ip: string): Promise<Response> {
 
   let text: string;
   let speed: number;
+  let turnstileToken: string | null = null;
   try {
     const body: any = await req.json();
     text = (body?.text ?? "").toString().trim();
     const rawSpeed: any = body?.speed;
     speed = rawSpeed !== undefined ? Number(rawSpeed) : 1.0;
+    turnstileToken = body?.turnstileToken ?? null;
   } catch {
     return jsonError("Invalid JSON body", 400, cors);
+  }
+
+  // Verify Turnstile challenge before doing any real work
+  const challenge = await verifyTurnstile(turnstileToken, ip);
+  if (!challenge.success) {
+    console.warn(`[turnstile] rejected (${ip}): ${challenge.error}`);
+    return jsonError("Challenge verification failed", 403, cors);
   }
 
   if (!text) return jsonError("text is required", 400, cors);

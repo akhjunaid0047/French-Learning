@@ -18,3 +18,7 @@ export const RATE_LIMIT_WINDOW_MS = 60_000;
 
 // Security — only trust x-forwarded-for when behind a known reverse proxy
 export const TRUSTED_PROXY = process.env.TRUSTED_PROXY === "true";
+
+// Cloudflare Turnstile
+export const TURNSTILE_SECRET = process.env.TURNSTILE_SECRET ?? "";
+export const TURNSTILE_ENABLED = process.env.TURNSTILE_ENABLED !== "false";
