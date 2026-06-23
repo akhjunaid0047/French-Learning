@@ -1,5 +1,6 @@
 'use client';
 import { useState, useEffect, useCallback, useMemo } from 'react';
+import Link from 'next/link';
 import { vocabulary, categories } from '@/lib/vocabulary';
 import { loadProgress, saveProgress, checkDailyStreak, AppProgress } from '@/lib/progress';
 import { primeFrenchVoices } from '@/lib/speech';
@@ -125,6 +126,30 @@ export default function Home() {
           <button className={`toggle-btn${activeView === 'quiz' ? ' active' : ''}`} onClick={() => setActiveView('quiz')}>📝 Quiz</button>
           <button className={`toggle-btn${activeView === 'stats' ? ' active' : ''}`} onClick={() => setActiveView('stats')}>📊 Stats</button>
           <button className="toggle-btn" onClick={resetProgress}>↺ Reset</button>
+          <Link
+            href="/contact"
+            id="nav-contact-link"
+            style={{
+              fontFamily: "'JetBrains Mono', monospace",
+              fontSize: '11px',
+              letterSpacing: '.08em',
+              textTransform: 'uppercase',
+              padding: '10px 15px',
+              background: 'var(--accent)',
+              color: 'var(--paper)',
+              border: '1.5px solid var(--accent)',
+              borderRadius: '8px',
+              textDecoration: 'none',
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '6px',
+              whiteSpace: 'nowrap',
+              transition: 'background .18s, border-color .18s',
+              flexShrink: 0,
+            }}
+          >
+            ✉ Contact
+          </Link>
         </div>
       </div>
 
@@ -188,7 +213,12 @@ export default function Home() {
       {/* Footer */}
       <footer className="site-footer">
         FrenchFlow Field Notes · {masteredCount} / {totalWords} mastered · XP {progress.xp} · 🔥 {progress.dailyStreak} day streak
+        <span style={{ margin: '0 10px', opacity: .4 }}>·</span>
+        <Link href="/contact" style={{ color: 'var(--accent)', textDecoration: 'none', fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', letterSpacing: '.06em', transition: 'color .18s' }}>
+          Contact &amp; Feedback
+        </Link>
       </footer>
+
     </>
   );
 }
