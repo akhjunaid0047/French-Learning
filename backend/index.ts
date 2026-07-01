@@ -34,7 +34,8 @@ Bun.serve({
     // TTS endpoint
     if (req.method === "POST" && url.pathname === "/tts") {
       const realIp = TRUSTED_PROXY
-        ? (req.headers.get("x-forwarded-for")?.split(",")[0].trim() ??
+        ? (req.headers.get("cf-connecting-ip") ??
+            req.headers.get("x-forwarded-for")?.split(",")[0].trim() ??
             server.requestIP(req)?.address ??
             "unknown")
         : (server.requestIP(req)?.address ?? "unknown");

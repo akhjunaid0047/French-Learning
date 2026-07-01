@@ -41,7 +41,8 @@ export default function TurnstileGate({ onVerified }: TurnstileGateProps) {
         setStatus('verifying');
         // Small delay so the "verifying…" state is visible
         setTimeout(() => {
-          sessionStorage.setItem(SESSION_KEY, token);
+          // Store only a flag — tokens are single-use and cannot be reused
+          sessionStorage.setItem(SESSION_KEY, '1');
           onVerified(token);
           setVisible(false);
         }, 600);
@@ -59,9 +60,11 @@ export default function TurnstileGate({ onVerified }: TurnstileGateProps) {
   }, [onVerified]);
 
   useEffect(() => {
-    // Already passed this session
+    // Already passed this session — backend remembers verified IPs,
+    // so we just need to skip the gate overlay. The token itself is
+    // not reusable; the backend's IP-session cache handles auth.
     if (sessionStorage.getItem(SESSION_KEY)) {
-      onVerified(sessionStorage.getItem(SESSION_KEY)!);
+      onVerified('session-cached');
       return;
     }
 
